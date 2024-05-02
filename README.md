@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @josevanegas 
 - 👀 I’m interested in ...human and scientific evolution
-- 🌱 I’m currently learnifghsdf
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 🌱 I’m currently learni..programming
+- 💞️ I’m looking to collaborate on ...technological project
+- 📫 How to reach me ... ricardo2020v@gmail.com
+- whassapt 3002825464
+- 😄 Pronouns: ...RICHARD
 - ⚡ Fun fact: ...
 
 <!---
